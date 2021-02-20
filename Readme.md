@@ -13,4 +13,5 @@ For getting portfolio templates [Click Here](https://bootstrapmade.com/bootstrap
 
 resume = Education 
 
+projects = jobs 
 ## 
