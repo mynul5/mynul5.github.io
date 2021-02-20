@@ -2,7 +2,11 @@
 
 #### visit my portfolio from this link:
 
-[https://mynul5.github.io/](https://https://mynul5.github.io/)
+[https://mynul5.github.io/](https://mynul5.github.io/)
 
 
 For getting portfolio templates [Click Here](https://bootstrapmade.com/bootstrap-portfolio-templates/)
+
+
+
+this is new 
